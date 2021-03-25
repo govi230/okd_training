@@ -1,3 +1,3 @@
 <?php
-print "Welcome to RHOCP First Practical"
+print "Welcome to RHOCP Second Practical"
 ?>
