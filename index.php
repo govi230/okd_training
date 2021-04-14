@@ -1,4 +1,5 @@
 <?php
-print "Welcome to RHOCP First Practical From CMD";
-print "Great Testing Result";
+print "Welcome to RHOCP First Practical From CMD \n";
+print "Great Testing Result \n";
+print "Okk";
 ?>
